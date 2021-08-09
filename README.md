@@ -29,7 +29,7 @@
 					<br>	
 					<br>	
 					<div class="position-fixed col-2 bg dark">
-				    <img class="" src="https://qph.fs.quoracdn.net/main-qimg-7eba346942ea8dce4e95772f6c8c0f25" height="70%" width="70%" alt="...">
+				    <img class="" src="pic_circle.png" height="70%" width="70%" alt="...">
 					<br>
 					<h3 class="display-4 text-light">Tiago Mognon</h3>
 					<nav style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
