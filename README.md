@@ -50,7 +50,7 @@
 				<div class="carousel slide">
 				 	<div class="carousel-inner">
 					    <div class="carousel-item active">
-						  	<img src="CdA.png" class="d-block w-100" alt="...">
+						  	<img src="https://github.com/mognondb/portfolio/blob/main/CdA.png" class="d-block w-100" alt="...">
 						  	<div class="card-img-overlay text-end ">
 						  		<img class=" " src="mobileCA.png" width="25%" alt="">
 					    	</div>
