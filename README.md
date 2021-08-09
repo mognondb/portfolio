@@ -44,13 +44,13 @@
 			</div>
 			<div class="col-9">	
 				<br>
-				<a href="www.cheirodealecrim.com" class="text-decoration-none">
+				<a href="http://www.cheirodealecrim.com" class="text-decoration-none">
 					<h2 class="display-6 text-center text-success">Cheiro de Alecrim</h2>
 				</a>
 				<div class="carousel slide">
 				 	<div class="carousel-inner">
 					    <div class="carousel-item active">
-						  	<img src="https://github.com/mognondb/portfolio/blob/main/CdA.png" class="d-block w-100" alt="...">
+						  	<img src="https://static.wixstatic.com/media/72c0b2_ca4c14ff9d0f4f03ae613badebb912d5~mv2.png/v1/fill/w_924,h_661,al_c/72c0b2_ca4c14ff9d0f4f03ae613badebb912d5~mv2.png" class="d-block w-100" alt="...">
 						  	<div class="card-img-overlay text-end ">
 						  		<img class=" " src="mobileCA.png" width="25%" alt="">
 					    	</div>
